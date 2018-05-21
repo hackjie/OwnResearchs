@@ -16,7 +16,7 @@
 10. 打 tag 推送到远程或者 GitHub 上发布 `release`
 11. 利用 `Trunk` 将 podspec 推送到 CocoaPods
 12. pod trunk register <your email>，成功会收到邮件通知
-13. pod trunk push **.spec
+13. pod trunk push **.podspec
 14. wait...直到出现成功出现一段文字几个图标（🍺）
 15. 再不懂可以参考[这里](http://swift.gg/2016/12/15/cocoapods-making-guide/)
 
